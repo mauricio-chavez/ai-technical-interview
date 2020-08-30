@@ -1,0 +1,9 @@
+[submodule "exercise-2/astrothunder-frontend"]
+	path = exercise-2/astrothunder-frontend
+	url = https://github.com/mauricio-chavez/astrothunder.git
+[submodule "exercise-2/astrothunder-backend"]
+	path = exercise-2/astrothunder-backend
+	url = https://github.com/mauricio-chavez/astrothunder-backend
+[submodule "exercise-1"]
+	path = exercise-1
+	url = https://github.com/mauricio-chavez/go-string-reverse-by-parenthesis
